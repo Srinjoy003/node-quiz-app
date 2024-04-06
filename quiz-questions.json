@@ -1,58 +1,53 @@
 [
 	{
-		"question": "What color is the sky on a clear day?",
-		"options": ["Blue", "Red", "Green", "Yellow"],
-		"correctOption": 0
+	  "question": "What does npm stand for in the context of Node.js?",
+	  "options": ["Node Package Manager", "Node Project Manager", "Node Package Module", "Node Program Manager"],
+	  "correctOption": 0
 	},
 	{
-		"question": "How many legs does a dog typically have?",
-		"options": ["2", "4", "6", "8"],
-		"correctOption": 1
+	  "question": "Which of the following is NOT a core module in Node.js?",
+	  "options": ["fs", "http", "path", "mongodb"],
+	  "correctOption": 3
 	},
 	{
-		"question": "Which month comes after March?",
-		"options": ["January", "February", "April", "June"],
-		"correctOption": 2
+	  "question": "What is the purpose of the 'require' function in Node.js?",
+	  "options": ["To include external modules or files", "To create new variables", "To execute asynchronous code", "To define routes in Express.js"],
+	  "correctOption": 0
 	},
 	{
-		"question": "What is the capital of France?",
-		"options": ["London", "Berlin", "Paris", "Rome"],
-		"correctOption": 2
+	  "question": "Which module in Node.js provides utilities for working with file paths?",
+	  "options": ["path", "fs", "http", "util"],
+	  "correctOption": 0
 	},
 	{
-		"question": "What is the result of 2 + 2?",
-		"options": ["3", "4", "5", "6"],
-		"correctOption": 1
-	},
-
-	{
-		"question": "Which planet is known as the Red Planet?",
-		"options": ["Mars", "Venus", "Jupiter", "Mercury"],
-		"correctOption": 0
+	  "question": "What is the event-driven architecture in Node.js based on?",
+	  "options": ["Callbacks", "Promises", "Generators", "Synchronous code"],
+	  "correctOption": 0
 	},
 	{
-		"question": "Who wrote the play 'Romeo and Juliet'?",
-		"options": [
-			"William Shakespeare",
-			"Charles Dickens",
-			"Jane Austen",
-			"Mark Twain"
-		],
-		"correctOption": 0
+	  "question": "What is the role of the 'module.exports' object in Node.js?",
+	  "options": ["To export functions, objects, or primitives from a module", "To import functions, objects, or primitives into a module", "To define routes in Express.js", "To create new instances of classes"],
+	  "correctOption": 0
 	},
 	{
-		"question": "What is the chemical symbol for water?",
-		"options": ["H2O", "CO2", "NaCl", "O2"],
-		"correctOption": 0
+	  "question": "Which HTTP method is used to request data from a server in Node.js?",
+	  "options": ["GET", "POST", "PUT", "DELETE"],
+	  "correctOption": 0
 	},
 	{
-		"question": "Which mammal can fly?",
-		"options": ["Bat", "Elephant", "Giraffe", "Kangaroo"],
-		"correctOption": 0
+	  "question": "What is the purpose of the 'Buffer' class in Node.js?",
+	  "options": ["To handle binary data", "To parse JSON data", "To create HTTP servers", "To manage file operations"],
+	  "correctOption": 0
 	},
 	{
-		"question": "What is the capital city of the United States?",
-		"options": ["New York City", "Washington, D.C.", "Los Angeles", "Chicago"],
-		"correctOption": 1
+	  "question": "What is the primary purpose of the 'EventEmitter' class in Node.js?",
+	  "options": ["To handle and respond to events", "To perform database queries", "To render HTML templates", "To validate user input"],
+	  "correctOption": 0
+	},
+	{
+	  "question": "Which function is used to execute code after a specified time interval in Node.js?",
+	  "options": ["setTimeout", "setInterval", "clearTimeout", "clearInterval"],
+	  "correctOption": 0
 	}
-]
+  ]
+  

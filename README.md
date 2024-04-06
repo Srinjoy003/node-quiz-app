@@ -9,8 +9,7 @@ This is a simple quiz application built with Node.js and Express.js.
 
 ### Installation
 1. Clone this repository to your local machine:
-   Run Command: "git clone <repository-url>"
-  
+   Run Command: "git clone https://github.com/Srinjoy003/node-quiz-app.git"  
 2. Navigate to the project directory:
 3. Install dependencies:
   Run Command: "npm i"

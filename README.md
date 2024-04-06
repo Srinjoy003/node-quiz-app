@@ -16,7 +16,7 @@ This is a simple quiz application built with Node.js and Express.js.
 
 ## Running the Application
 1. Start the server:
-  Run Command: "node server.js"
+  Run Command: `node server.js`
 2. Open your web browser, copy the path of the quiz.html file and paste it in your web browser and navigate to access the quiz.
 
 ## Usage
